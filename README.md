@@ -1,1 +1,1 @@
-# addto_cart_frontend
+# add-to-cart-frontend
